@@ -115,13 +115,13 @@ footer {
     left: 5px;
 }
 .h1::before {
-    content: url("https://ru.freepik.com/free-vector/stroke-rhombus-geometric-shape-vector_34380549.htm#fromView=search&page=1&position=1&uuid=971a143c-354a-42b2-ae6e-4564042b6d25&query=%D0%B1%D0%B5%D0%BB%D1%8B%D0%B5+%D1%80%D0%BE%D0%BC%D0%B1");
+    content: url("Rectangle2.svg");
     display: inline-block;
     width: 5px;
     height: 5px;
 }
 .h1::after {
-    content: url("https://ru.freepik.com/free-vector/stroke-rhombus-geometric-shape-vector_34380549.htm#fromView=search&page=1&position=1&uuid=971a143c-354a-42b2-ae6e-4564042b6d25&query=%D0%B1%D0%B5%D0%BB%D1%8B%D0%B5+%D1%80%D0%BE%D0%BC%D0%B1");
+    content: url("Rectangle2.svg");
     display: inline-block;
     width: 5px;
     height: 5px;
